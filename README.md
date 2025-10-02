@@ -7,7 +7,7 @@ secure, automated, and open-source-first solution for collecting, processing,
 and visualizing metrics, logs, and network flow data.
 
 ## Current Status
-- 📌 Architectural design in progress (see `/docs/architecture-diagram.png`)
+- 📌 Architectural design in progress (see `[/docs/architecture-diagram.png](https://lucid.app/lucidchart/8e6264e5-8cfb-455d-9f9a-f026bfd3f66c/edit?viewport_loc=-1219%2C-173%2C4336%2C2287%2C0_0&invitationId=inv_815fe531-5093-4c5f-95d9-b608df872d97)`)
 - 📌 Requirements gathered from project sponsor
 - 🚧 Implementation not started yet
 
