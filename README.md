@@ -3,7 +3,7 @@
 ## Overview
 This repository is the starting point for designing and building an enterprise-wide 
 logging and visualization platform. The goal of the project is to provide a 
-secure, redundant, and open-source-first solution for collecting, processing, 
+secure, automated, and open-source-first solution for collecting, processing, 
 and visualizing metrics, logs, and network flow data.
 
 ## Current Status
